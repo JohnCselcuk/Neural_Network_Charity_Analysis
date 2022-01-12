@@ -30,15 +30,6 @@ A neural network model was created to determine if an organization would be succ
 
 ## Results
 
-### Data Preprocessing
-- Target variable: IS_SUCCESSFUL
-    - This is also known as the dependent variable or 'y'
-- Features variables: APPLICATION_TYPE, 'AFFILIATION, 'CLASSIFICATION', USE_CASE, ORGANIZATION, INCOME_AMT, SPECIAL_CONSIDERATIONS
-    - Features are also known as independent variables, or 'X'
-- Removed variables: EIN and NAME
-    -  These were identification columns that did not add value to the model
-
-
 ### Compiling, Training, and Evaluating the Model
 #### Initial Model
 The initial attempt at achieving a predictive accuracy of 75% used two hidden layers that featured 80 neurons in the first layer and 30 neurons in the second layer.  Both hidden layers utilized the rectified linear unit (ReLU) activation function.  The output layer utilized the sigmoid function.  This gave a total of 6,061 trainable parameters and 0 non-trainable parameters.
