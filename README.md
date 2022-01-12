@@ -72,3 +72,7 @@ This slightly degraded the model's predictive accuracy, but still performed bett
 ## Summary
 Overall, optimizing the initial model did not significantly improve its predictive accuracy.  All four models failed to meet Alphabet Soup's threshold of 75%.  Since Alphabet Soup's request was a essentially a binary classifer, a Support Vector Machine (SVM) could be used.  SVMs are one of the most robust prediction methods and are great for classification and regression analysis.  SVMs use points in space in order to maximize the width of a gap between two categories and maps new points into that space and predicts which category the points belong to based on which side of the gap they are on.  Additional testing and evaluation of Alphabet Soup's data should be conducted in order to determine if an SVM would yield a predicitive accuracy score of 75% or higher.
 
+Thank you for your time 
+
+John
+
