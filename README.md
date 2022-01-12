@@ -20,12 +20,12 @@ A neural network model was created to determine if an organization would be succ
 
 ## Dependencies
 - Jupyter Notebook
-- Python v3.x
-    - Pandas
-    - OS
-    - Sci-Kit Learn
-    - TensorFlow
-    - Keras
+- Python 3.9
+- Pandas
+- OS
+- Sci-Kit Learn
+- TensorFlow
+- Keras
 
 
 ## Results
