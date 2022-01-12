@@ -40,7 +40,7 @@ The initial attempt at achieving a predictive accuracy of 75% used two hidden la
 
 This model gave an accuracy score of 72.5%, which did not meet Alphabet Soup's threshold.
 
-![initial_model_score](https://user-images.githubusercontent.com/73897240/114924533-17b52900-9dfc-11eb-95d2-ef11990b4eaa.PNG)
+![initial_model_score](![Model 2](https://user-images.githubusercontent.com/85411967/149041398-e38ab435-3b9d-402c-bc17-31588465af44.png)
 
 
 #### First Optimization Attempt
